@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shamir0201
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently practising Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
