@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shamir0201
 - 👀 I’m interested in coding
-- 🌱 I’m currently practising Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently practicing Java
+- 📫 How to reach me : https://www.instagram.com/s_h_a_m_i_r_/
 
 <!---
 shamir0201/shamir0201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
